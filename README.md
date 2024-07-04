@@ -3,7 +3,7 @@
 git clone https://github.com/bogdanvvv/test_task_Erbis.git
 
 
-#### Run backend
+### Run backend
 
 cd test_task_Erbis
 
@@ -15,7 +15,9 @@ pip install -r requirements.txt
 
 python3 app/main.py 
 
-#### Run frontend
+### Run frontend
+
+cd test_task_Erbis
 
 cd react-form
 
