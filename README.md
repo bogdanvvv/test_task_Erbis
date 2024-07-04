@@ -23,5 +23,7 @@ cd test_task_Erbis
 
 cd react-form
 
+npm install react-scripts --save
+
 npm start
 
