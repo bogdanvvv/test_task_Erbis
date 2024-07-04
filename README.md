@@ -15,6 +15,8 @@ pip install -r requirements.txt
 
 python3 app/main.py 
 
+go to localhost/api/docs
+
 ### Run frontend
 
 cd test_task_Erbis
